@@ -1,0 +1,111 @@
+.mani{
+    padding-top: 50px;
+    width: 100%;
+}
+span{
+    font-size: 20px;
+}
+.parent{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+    padding: 5px;
+}
+h1{
+    font-size: 50px;
+}
+.parent1{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+    padding: 5px;
+}
+.parent2{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 200px;
+    background-color: #fff;
+    padding: 5px;
+}
+.items{
+    width: 200px;
+    height: 190px;
+    margin: 5px;
+    border: 20px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.items1{
+    background-image: url(https://img.freepik.com/free-photo/autumn-leaf-falling-revealing-intricate-leaf-vein-generated-by-ai_188544-9869.jpg);
+    flex: 4;
+}
+.items2{
+    background-image: url(https://t3.ftcdn.net/jpg/05/71/06/76/360_F_571067620_JS5T5TkDtu3gf8Wqm78KoJRF1vobPvo6.jpg);
+    flex: 7;
+}
+.items3{
+    background-image: url(https://cdn.pixabay.com/photo/2015/11/07/19/18/aurora-borealis-1032517_640.jpg);
+    flex: 5;
+}
+.items4{
+    background-image: url(https://asset.gecdesigns.com/img/wallpapers/beautiful-magical-misty-mountains-reflection-river-ultra-hd-wallpaper-4k-sr10012420-1706505766369-cover.webp);
+    flex: 6;
+}
+.items5{
+    background-image: url(https://img.freepik.com/free-photo/autumn-leaf-falling-revealing-intricate-leaf-vein-generated-by-ai_188544-9869.jpg);
+    flex: 3;
+}
+.items6{
+    background-image: url(https://images.pexels.com/photos/257360/pexels-photo-257360.jpeg?cs=srgb&dl=pexels-pixabay-257360.jpg&fm=jpg);
+    flex: 3;
+}
+.items7{
+    background-image: url(https://cdn.pixabay.com/photo/2014/02/27/16/10/flowers-276014_640.jpg);
+    flex: 2;
+}
+.items8{
+    background-image: url(https://t4.ftcdn.net/jpg/05/47/97/81/360_F_547978128_vqEEUYBr1vcAwfRAqReZXTYtyawpgLcC.jpg);
+    flex: 3;
+}
+.items9{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/030/292/243/non_2x/lotus-flower-the-sun-reflection-water-nature-nature-hd-wallpaper-ai-generated-free-photo.jpg);
+    flex: 2;
+}
+.items10{
+    background-image: url(https://img.freepik.com/premium-photo/wide-angle-shot-single-tree-growing-clouded-sky-during-sunset-surrounded-by-grass_1033124-10.jpg);
+    flex: 3;
+}
+.items11{
+    background-image: url(https://img.lovepik.com/photo/48013/0627.jpg_wh860.jpg);
+    flex: 2;
+}
+.items12{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0-fvf86Ohuonea_THJbrUWpwJMHzd7Z6Lqw&s);
+    flex: 2;
+}
+.items13{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoDmEJfXP3q0OqGdwUdx6uTeaiwieI6W3kPQ&s);
+    flex: 3;
+}
+.items14{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnn_9gLpFgRb7K-ciUvcGK0xWPq1w02scgYg&s);
+    flex: 2;
+}
+.items15{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR59VI8GMyC_IYo-NnIYq10bkU1jCWNGAUmpw&s);
+    flex: 3;
+}
+.items16{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY2XtjzlY-Jfij89eie6AI3TVtu7Ap2cAsjg&s);
+    flex: 4;
+}
+.items17{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVsTXi2eHnvyKoXOQA4KD8fBoAbpn_HdSlGQ&s);
+    flex: 2;
+}
